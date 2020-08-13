@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/TravelTour">
+    <!--
+    <Resource 
+        name="SE1402"
+        auth="Container"
+        type="javax.sql.DataSource" 
+        driverClassName="org.postgresql.Driver"
+        url="jdbc:postgresql://ec2-18-214-119-135.compute-1.amazonaws.com:5432/d11e01r136nr53?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactory"
+        username="exsdcoxohjoyqb" 
+        password="63e9df1ada87a02e0576dfa829802a0b3ff954897dc2f6ac13bb7789a970d3af" 
+    >
+    </Resource>-->
+</Context>
